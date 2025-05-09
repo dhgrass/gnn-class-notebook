@@ -1,0 +1,22 @@
+# Entornos virtuales
+.venv39/
+
+# Notebooks temporales
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de log o caché
+*.log
+*.pyc
+__pycache__/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
